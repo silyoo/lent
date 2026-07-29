@@ -1,4 +1,4 @@
-name: Secure RDP via Tailscale (Automated Loop)
+name: chickpeas
 
 on:
   workflow_dispatch:
